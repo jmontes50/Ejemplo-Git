@@ -7,3 +7,4 @@ for(let i = 0; i < weeks.length; i ++){
 }
 
 console.log("Hola esto es un cambio")
+console.log("Este es un cambio de alumno1")
